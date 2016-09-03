@@ -14,6 +14,7 @@ class Matrix1 {
     Matrix1(int n, int m) {
         A = new char[n][m];
         NL = n;
+        
         NC = m;
 
     }
